@@ -5,7 +5,7 @@ The API supports CRUD operations that is Create Read Update and Delete.
  1. Clone the repository
  2. Run 'npm install'
  3. Start the Server: 'node index.js'
- 4. API will be available at 'https://probable-bassoon-x5v4rgqvr4vvhpqqp-3000.app.github.dev'
+ 4. API will be available at ' https://probable-bassoon-x5v4rgqvr4vvhpqqp-3000.app.github.dev/'
  ##  API Endpoints
  GET: Retrieves a list of all users
  Response: (200) OK
